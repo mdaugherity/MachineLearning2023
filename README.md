@@ -8,6 +8,7 @@ Lecture notes are posted on canvas for now.
 * [Tutorial 2 - Numpy](Tutorial_2_Numpy.ipynb): Doing math with arrays in [numpy](https://numpy.org/)
 * [Tutorial 3 - matplotlib](Tutorial_3_Plots_with_matplotlib.ipynb): Making plots with [matplotlib](https://matplotlib.org/)
 * [Class Notes](Class_1_23_2023_Intro_to_Python.ipynb): Summary from class 1.23.2023
+* CHEAT SHEETS: [numpy](pdf/numpy_cheat_sheet.pdf) | [matplotlib](pdf/matplotlib_cheat_sheet.pdf) | [pandas](pdf/pandas_cheat_sheet.pdf) | [sklearn](pdf/sklearn_cheat_sheet.pdf)
 
 ## Machine Learning Basics
 * [Tutorial 4 - First_Look_at_Data](Tutorial_4_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
