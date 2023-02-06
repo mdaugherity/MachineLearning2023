@@ -1,5 +1,5 @@
 # MachineLearning2023
-PHYS 453 - Spring 2022, Dr. Mike Daugherity, Abilene Christian University.
+PHYS 453 - Spring 2023, Dr. Mike Daugherity, Abilene Christian University.
 
 Lecture notes are posted on canvas for now.   
 
