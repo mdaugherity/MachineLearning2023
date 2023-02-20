@@ -13,3 +13,4 @@ Lecture notes are posted on canvas for now.
 ## Machine Learning Basics
 * [Tutorial 4 - First_Look_at_Data](Tutorial_4_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
 * [Homework 1 - DIY_1D_Classifier](HW1_DIY_1D_Classifier.ipynb): Make your own simple classifier!  Make that machine learn!
+* [Tutorial 5 - A_Classifier_Class](Tutorial_5_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
