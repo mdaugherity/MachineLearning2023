@@ -14,3 +14,8 @@ Lecture notes are posted on canvas for now.
 * [Tutorial 4 - First_Look_at_Data](Tutorial_4_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
 * [Homework 1 - DIY_1D_Classifier](HW1_DIY_1D_Classifier.ipynb): Make your own simple classifier!  Make that machine learn!
 * [Tutorial 5 - A_Classifier_Class](Tutorial_5_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
+
+## Classification Tools
+* [Classifier Challenge](Class/Class_1_28_2022_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 1.28.2022
+* [Tutorial 6 - Tuning and Evaluation](Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
+* [Tutorial 7 - Data Transforms](Tutorial_7_Data_Transforms.ipynb): The unskippable step of scaling data
