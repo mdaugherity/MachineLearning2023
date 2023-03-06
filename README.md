@@ -23,3 +23,8 @@ Lecture notes are posted on canvas for now.
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
 * [Tutorial 6 - Tuning and Evaluation](Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms](Tutorial_7_Data_Transforms.ipynb): The unskippable step of scaling data
+
+## Classifier Deep Dives
+* [Tutorial 8 - Nearest Neighbors](Tutorial_8_Nearest_Neighbors.ipynb): How to use sklearn's kNN classifier
+* [Tutorial 9 - Decision Trees](Tutorial_9_Decision_Trees.ipynb): How to use DecisionTreeClassifier
+* [Homework 3 - Trees on the Titanic](HW3_Trees_on_the_Titanic.ipynb): Find out who sinks and who swims on real Titanic data
