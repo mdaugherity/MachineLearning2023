@@ -25,10 +25,12 @@ Lecture notes are posted on canvas for now.
 * [Tutorial 7 - Data Transforms](Tutorial_7_Data_Transforms.ipynb): The unskippable step of scaling data
 
 ## Classifier Deep Dives
-* [PPT 3 - Nearest Neighbors](pdf/ML3.pdf): The Nearest Neighbor classifier
-* [Tutorial 8 - Nearest Neighbors](Tutorial_8_Nearest_Neighbors.ipynb): How to use sklearn's kNN classifier
-* [PPT 4 - Decision Trees](pdf/ML4.pdf): How Decision Trees work
-* [Tutorial 9 - Decision Trees](Tutorial_9_Decision_Trees.ipynb): How to use DecisionTreeClassifier
-* [Tutorial 10 - Titanic Pandas](Tutorial_10_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
-* [Homework 3 - Trees on the Titanic](HW3_Trees_on_the_Titanic.ipynb): Find out who sinks and who swims on real Titanic data
+* Nearest Neighbors
+** [PPT 3 - Nearest Neighbors](pdf/ML3.pdf): The Nearest Neighbor classifier
+** [Tutorial 8 - Nearest Neighbors](Tutorial_8_Nearest_Neighbors.ipynb): How to use sklearn's kNN classifier
+* Decision Trees
+** [PPT 4 - Decision Trees](pdf/ML4.pdf): How Decision Trees work
+** [Tutorial 9 - Decision Trees](Tutorial_9_Decision_Trees.ipynb): How to use DecisionTreeClassifier
+** [Tutorial 10 - Titanic Pandas](Tutorial_10_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
+** [Homework 3 - Trees on the Titanic](HW3_Trees_on_the_Titanic.ipynb): Find out who sinks and who swims on real Titanic data
 * [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
