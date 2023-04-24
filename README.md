@@ -35,3 +35,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * [Tutorial 12 - Digits Dataset](Tutorial_12_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 4 - Digits Throwdown](HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 * [Tutorial 13 - Neural Networks](Tutorial_13_Neural_Networks.ipynb): Finally, time to play with artificial brains 
+* [Classification Recipe](Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
+
+## Special Topics
+
