@@ -36,7 +36,12 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * [Homework 4 - Digits Throwdown](HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 * Linear Models: [PPT 6](pdf/ML6.pdf)
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 13](Tutorial_13_Neural_Networks.ipynb)
+
+## Recipes
+Copy-and-paste code to get you started on a problem
 * [Classification Recipe](Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
+* [Regression Recipe](Regression_Recipe.ipynb): regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
+
 
 ## Special Topics
 * [PPT 8 - Transforms](pdf/ML8.pdf): feature scaling, dimensionality reduction with PCA, manifold learning and t-SNE, pipelines
