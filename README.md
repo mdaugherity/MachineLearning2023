@@ -44,6 +44,9 @@ Copy-and-paste code to get you started on a problem
 
 
 ## Special Topics
-* [PPT 8 - Transforms](pdf/ML8.pdf): feature scaling, dimensionality reduction with PCA, manifold learning and t-SNE, pipelines
-* Regression: [PPT 9](pdf/ML9.pdf)
+* [PPT 8 - Transforms](pdf/ML8.pdf) - feature scaling, dimensionality reduction with PCA, manifold learning and t-SNE, pipelines
+* [PPT 9 - Regression](pdf/ML9.pdf) - predicting a real-valued number instead of a category
+* [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
+* [PPT 11 - Ensembles](pdf/ML11.pdf) - improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
+* [PPT 12 - Modern Methods](pdf/ML12.pdf) what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs 
 
